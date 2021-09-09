@@ -1,0 +1,2 @@
+Con respecto a GIT, tenía algún conocimento a nivel conceptual por mi background laboral. De todas formas, son conceptos que tienen un nivel de abstracción que genera que cueste poder apropiarse de los 
+mismos rápidamente. Si bien lo cubierto en el curso abarca varios aspectos, creo que amerita algo más exclusivo de git, y tal vez en alguna etapa más temprana de la carrera (por ejemplo como optativa)
